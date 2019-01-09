@@ -21,7 +21,7 @@ export default class App extends Component<Props> {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.welcome}>V 0.1</Text>
+        <Text style={styles.welcome}>V 0.2</Text>
         <Text style={styles.instructions}>This version was released using AppCenter</Text>
       </View>
     );
